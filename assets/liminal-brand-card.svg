@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="1500" height="980" viewBox="0 0 1500 980" version="1.1">
+  <svg:title>LIMINAL PROJECT | Primary brand card</svg:title>
+  <svg:defs>
+    <svg:linearGradient id="violet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#E0BBFF"/>
+      <svg:stop offset="55%" stop-color="#BC7BFF"/>
+      <svg:stop offset="100%" stop-color="#8B40F5"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="back" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#110A1F"/>
+      <svg:stop offset="52%" stop-color="#241035"/>
+      <svg:stop offset="100%" stop-color="#3F176B"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#7D37D4"/>
+      <svg:stop offset="100%" stop-color="#160A23"/>
+    </svg:linearGradient>
+  </svg:defs>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="background_layer" inkscape:groupmode="layer" inkscape:label="01 - Background (editable)">
+    <svg:rect x="0" y="0" width="1500" height="980" fill="url(#back)"/>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="geometry_layer" inkscape:groupmode="layer" inkscape:label="02 - Decorative geometry">
+    <svg:path d="M 0 820 L 460 0 L 750 0 L 160 980 L 0 980 Z" fill="#51236E" opacity=".23"/>
+    <svg:path d="M 1050 0 L 1500 0 L 1500 420 L 1340 620 Z" fill="#833FE0" opacity=".12"/>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="symbol_layer" inkscape:groupmode="layer" inkscape:label="03 - LIMINAL symbol">
+    <svg:g transform="translate(335 26) scale(1.38)" id="liminal-symbol">
+      <svg:path d="M 150 125 L 239 125 L 239 379 L 443 379 L 366 455 L 150 455 Z" fill="url(#violet)" id="main-L-contour"/>
+      <svg:path d="M 243 379 L 458 379 L 405 431 L 294 431 Z" fill="url(#violet)" id="lower-geometric-slice"/>
+      <svg:path d="M 314 126 L 400 126 L 258 268 L 258 181 Z" fill="#D8A8FF" id="upper-facet"/>
+    </svg:g>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="type_layer" inkscape:groupmode="layer" inkscape:label="04 - Editable text">
+    <svg:text x="750" y="790" fill="#F5EAFF" font-family="DejaVu Sans" font-size="77" font-weight="bold" letter-spacing="3" text-anchor="middle">LIMINAL PROJECT</svg:text>
+    <svg:text x="750" y="850" fill="#C59BDC" font-family="DejaVu Sans" font-size="25" font-weight="normal" letter-spacing="2" text-anchor="middle">ALL FICTION EMULATOR DEVELOPMENT</svg:text>
+  </svg:g>
+</svg:svg>

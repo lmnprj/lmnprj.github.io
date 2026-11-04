@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="2200" height="680" viewBox="0 0 2200 680" version="1.1">
+  <svg:title>LIMINAL PROJECT | Primary horizontal logo</svg:title>
+  <svg:defs>
+    <svg:linearGradient id="violet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#E0BBFF"/>
+      <svg:stop offset="55%" stop-color="#BC7BFF"/>
+      <svg:stop offset="100%" stop-color="#8B40F5"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="back" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#110A1F"/>
+      <svg:stop offset="52%" stop-color="#241035"/>
+      <svg:stop offset="100%" stop-color="#3F176B"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#7D37D4"/>
+      <svg:stop offset="100%" stop-color="#160A23"/>
+    </svg:linearGradient>
+  </svg:defs>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="symbol_layer" inkscape:groupmode="layer" inkscape:label="01 - Symbol">
+    <svg:g transform="translate(-10 -12) scale(1.06)" id="liminal-symbol">
+      <svg:path d="M 150 125 L 239 125 L 239 379 L 443 379 L 366 455 L 150 455 Z" fill="url(#violet)" id="main-L-contour"/>
+      <svg:path d="M 243 379 L 458 379 L 405 431 L 294 431 Z" fill="url(#violet)" id="lower-geometric-slice"/>
+      <svg:path d="M 314 126 L 400 126 L 258 268 L 258 181 Z" fill="#D8A8FF" id="upper-facet"/>
+    </svg:g>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="wordmark_layer" inkscape:groupmode="layer" inkscape:label="02 - Wordmark / editable live text">
+    <svg:text x="620" y="332" fill="#F5EAFF" font-family="DejaVu Sans" font-size="162" font-weight="bold" letter-spacing="5">LIMINAL</svg:text>
+    <svg:text x="628" y="411" fill="#BD83EE" font-family="DejaVu Sans" font-size="40" font-weight="normal" letter-spacing="7">P R O J E C T</svg:text>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="accent_layer" inkscape:groupmode="layer" inkscape:label="03 - Accent lines">
+    <svg:rect x="628" y="455" width="620" height="3" fill="#9B59DA"/>
+    <svg:rect x="628" y="468" width="190" height="3" fill="#6D359C"/>
+  </svg:g>
+</svg:svg>

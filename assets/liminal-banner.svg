@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440" version="1.1">
+  <svg:title>LIMINAL PROJECT | YouTube channel art 2560x1440</svg:title>
+  <svg:defs>
+    <svg:linearGradient id="violet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#E0BBFF"/>
+      <svg:stop offset="55%" stop-color="#BC7BFF"/>
+      <svg:stop offset="100%" stop-color="#8B40F5"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="back" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#110A1F"/>
+      <svg:stop offset="52%" stop-color="#241035"/>
+      <svg:stop offset="100%" stop-color="#3F176B"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#7D37D4"/>
+      <svg:stop offset="100%" stop-color="#160A23"/>
+    </svg:linearGradient>
+  </svg:defs>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="background_layer" inkscape:groupmode="layer" inkscape:label="01 - Background gradient">
+    <svg:rect x="0" y="0" width="2560" height="1440" fill="url(#back)"/>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="corner_geometry" inkscape:groupmode="layer" inkscape:label="02 - Abstract corner shapes">
+    <svg:path d="M0 0 H1080 L 290 1440 H0 Z" fill="#78319A" opacity=".19"/>
+    <svg:path d="M1740 0 H2560 V1440 H2330 Z" fill="#9F58E5" opacity=".13"/>
+    <svg:path d="M0 1300 L800 0 L905 0 L140 1440 L0 1440 Z" fill="#A655ED" opacity=".09"/>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="fine_lines" inkscape:groupmode="layer" inkscape:label="03 - Fine tech lines">
+    <svg:rect x="70" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="275" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="480" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="685" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="890" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="1095" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="1300" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="1505" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="1710" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="1915" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="2120" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="2325" y="0" width="1" height="1440" fill="#B876F6" opacity=".06"/>
+    <svg:rect x="0" y="100" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="300" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="500" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="700" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="900" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="1100" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+    <svg:rect x="0" y="1300" width="2560" height="1" fill="#B876F6" opacity=".045"/>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="symbol_layer" inkscape:groupmode="layer" inkscape:label="04 - Safe-zone icon / vector">
+    <svg:g transform="translate(580 421) scale(0.91)" id="liminal-symbol">
+      <svg:path d="M 150 125 L 239 125 L 239 379 L 443 379 L 366 455 L 150 455 Z" fill="url(#violet)" id="main-L-contour"/>
+      <svg:path d="M 243 379 L 458 379 L 405 431 L 294 431 Z" fill="url(#violet)" id="lower-geometric-slice"/>
+      <svg:path d="M 314 126 L 400 126 L 258 268 L 258 181 Z" fill="#D8A8FF" id="upper-facet"/>
+    </svg:g>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="text_layer" inkscape:groupmode="layer" inkscape:label="05 - Safe-zone texts / editable">
+    <svg:text x="1130" y="713" fill="#F5EAFF" font-family="DejaVu Sans" font-size="106" font-weight="bold" letter-spacing="5">LIMINAL</svg:text>
+    <svg:text x="1130" y="819" fill="#C293F2" font-family="DejaVu Sans" font-size="91" font-weight="bold" letter-spacing="10">PROJECT</svg:text>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="subtitle_layer" inkscape:groupmode="layer" inkscape:label="06 - Brand subtitle / editable">
+    <svg:text x="1130" y="893" fill="#B891D1" font-family="DejaVu Sans" font-size="22" font-weight="normal" letter-spacing="1">ALL FICTION  /  EMULATOR DEVELOPMENT</svg:text>
+  </svg:g>
+  <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="brand_accent" inkscape:groupmode="layer" inkscape:label="07 - Brand accent">
+    <svg:rect x="1130" y="844" width="650" height="2" fill="#8A44C8" opacity=".74"/>
+    <svg:rect x="1130" y="853" width="120" height="2" fill="#C591EF"/>
+  </svg:g>
+</svg:svg>

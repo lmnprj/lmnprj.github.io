@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg:svg xmlns:svg="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" version="1.1">
+  <svg:title>LIMINAL PROJECT | rounded app icon</svg:title>
+  <svg:defs>
+    <svg:linearGradient id="violet" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#E0BBFF"/>
+      <svg:stop offset="55%" stop-color="#BC7BFF"/>
+      <svg:stop offset="100%" stop-color="#8B40F5"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="back" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#110A1F"/>
+      <svg:stop offset="52%" stop-color="#241035"/>
+      <svg:stop offset="100%" stop-color="#3F176B"/>
+    </svg:linearGradient>
+    <svg:linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <svg:stop offset="0%" stop-color="#7D37D4"/>
+      <svg:stop offset="100%" stop-color="#160A23"/>
+    </svg:linearGradient>
+    <svg:clipPath id="rounded">
+      <svg:rect x="0" y="0" width="1024" height="1024" fill="#fff" rx="212"/>
+    </svg:clipPath>
+  </svg:defs>
+  <svg:g clip-path="url(#rounded)">
+    <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="background_layer" inkscape:groupmode="layer" inkscape:label="01 - Background">
+      <svg:rect x="0" y="0" width="1024" height="1024" fill="url(#back)"/>
+    </svg:g>
+    <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="panels_layer" inkscape:groupmode="layer" inkscape:label="02 - Ambient panels">
+      <svg:path d="M 0 700 L 410 0 L 720 0 L 165 1024 L 0 1024 Z" fill="#55217B" opacity=".34"/>
+      <svg:path d="M 720 0 L 1024 0 L 1024 470 Z" fill="#6B3095" opacity=".24"/>
+    </svg:g>
+    <svg:g xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="symbol_layer" inkscape:groupmode="layer" inkscape:label="03 - Separate vector N paths">
+      <svg:g transform="translate(45 50) scale(1.58)" id="liminal-symbol">
+        <svg:path d="M 150 125 L 239 125 L 239 379 L 443 379 L 366 455 L 150 455 Z" fill="url(#violet)" id="main-L-contour"/>
+        <svg:path d="M 243 379 L 458 379 L 405 431 L 294 431 Z" fill="url(#violet)" id="lower-geometric-slice"/>
+        <svg:path d="M 314 126 L 400 126 L 258 268 L 258 181 Z" fill="#D8A8FF" id="upper-facet"/>
+      </svg:g>
+    </svg:g>
+  </svg:g>
+</svg:svg>
