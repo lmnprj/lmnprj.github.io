@@ -1,6 +1,6 @@
 // Укажи прямую ссылку на официальный установщик и ID вашего видео YouTube.
 const SITE_CONFIG = {
-  downloadUrl: '',
+  downloadUrl: 'https://github.com/lmnprj/lmnprj.github.io/releases/latest/download/ALL-FICTION-Setup.exe',
   youtubeVideoId: ''
 };
 const mobileButton = document.querySelector('.mobile-menu-button');
